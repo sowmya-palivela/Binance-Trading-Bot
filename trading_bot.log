@@ -1,0 +1,7 @@
+2026-03-08 12:03:35,203 - INFO - Order response: {}
+2026-03-08 12:03:47,808 - INFO - Order response: {}
+2026-03-08 12:07:34,987 - INFO - Order response: {}
+2026-03-08 12:09:58,348 - ERROR - Error placing order: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-08 12:09:58,348 - ERROR - Execution failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-08 12:26:15,101 - INFO - Order response: {'orderId': 3817232, 'status': 'FILLED', 'executedQty': 0.001, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET'}
+2026-03-08 12:26:32,972 - INFO - Order response: {'orderId': 9287995, 'status': 'NEW', 'executedQty': 0.001, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT'}
